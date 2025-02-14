@@ -1,0 +1,4 @@
+families=int(input())
+bulls=int(input())
+free=bulls-((int(bulls/families))*families)
+print(free)
