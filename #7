@@ -1,0 +1,4 @@
+square=1
+rain=1
+volume=(square*10000)*(rain/100)*1000
+print(volume)
