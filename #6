@@ -1,0 +1,4 @@
+weight=int(input())
+hight=int(input())
+IMT=(weight/(hight**2))*704.5
+print(round(IMT, 2))
