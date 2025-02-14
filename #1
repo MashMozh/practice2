@@ -1,0 +1,3 @@
+rubles=int(input())
+result=int((rubles-96*48)/6)
+print(result)
