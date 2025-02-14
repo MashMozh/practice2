@@ -1,0 +1,3 @@
+metre=int(input())
+mile=int(metre*0.00062137)
+print(mile)
