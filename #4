@@ -1,0 +1,6 @@
+man=int(input())
+women=man*7
+bags=women*7
+cats=bags*7
+minicats=cats*7
+print(man+women+bags+cats+minicats)
