@@ -1,2 +1,2 @@
 friends,candies=map(int,input().split())
-print(int(friends/candies))
+print(int(candies/friends+1))
